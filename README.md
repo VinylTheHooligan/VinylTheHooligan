@@ -1,8 +1,8 @@
 ## 👋 À propos de moi
 
-Développeur Web / Fullstack en formation **DWWM à l’ENI École Informatique**, je m’investis pleinement dans l’apprentissage des technologies modernes du web, et plus encore. J’aime concevoir des applications fiables, structurées et utiles, avec une attention particulière portée à la qualité du code, à la clarté de l’architecture et à l’expérience utilisateur.
+Développeur Web / Fullstack en formation **DWWM à l’ENI École Informatique**, je me passionne pour la création d’applications fiables, élégantes et bien architecturées. J’accorde une grande importance à la qualité du code, à la cohérence des structures logicielles et à une expérience utilisateur fluide et intuitive.
 
-Curieux, rigoureux et orienté solutions, je m’épanouis dans les environnements où l’on valorise l’analyse, la collaboration et la progression continue.
+Curieux et surtout rigoureux, j’évolue sereinement dans des environnements où l’analyse, la collaboration et l’amélioration continue sont au cœur du travail.
 
 ---
 
@@ -27,7 +27,7 @@ Mon ambition : contribuer à des projets concrets, apprendre auprès d’une éq
 
 - **Front-end** : React, TypeScript, Tailwind, Angular
 - **Back-end** : Node.js, Express, APIs REST, Symfony  
-- **Bases de données** : PostgreSQL, SQL Server  
+- **Bases de données** : PostgreSQL, SQL Server, MySQL 
 - **Méthodologies** : MVC, bonnes pratiques, qualité logicielle  
 - **Outils** : Git, Docker, environnements de développement modernes, Linux (Fedora WS)
 
