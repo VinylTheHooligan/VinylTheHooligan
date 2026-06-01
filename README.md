@@ -1,4 +1,4 @@
-# 👋 Développeur Web / Fullstack — Profil Professionnel
+# 👋 Développeur Web / Fullstack - Profil Professionnel
 
 Développeur web fullstack passionné par la conception d’architectures **scalables**, **maintenables** et **orientées métier**.
 Diplômé du Titre Professionnel **DWWM (Bac+2) – ENI École Informatique**, je m’intéresse particulièrement aux environnements techniques modernes, aux bonnes pratiques de développement et aux approches centrées sur la qualité logicielle.
