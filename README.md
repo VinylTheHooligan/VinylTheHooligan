@@ -1,46 +1,61 @@
-## 👋 À propos de moi
+# 👋 Développeur Web / Fullstack — Profil Professionnel
 
-Développeur Web / Fullstack en formation **DWWM à l’ENI École Informatique**, je me passionne pour la création d’applications fiables, élégantes et bien architecturées. J’accorde une grande importance à la qualité du code, à la cohérence des structures logicielles et à une expérience utilisateur fluide et intuitive.
+Développeur web fullstack passionné par la conception d’architectures **scalables**, **maintenables** et **orientées métier**.
+Diplômé du Titre Professionnel **DWWM (Bac+2) – ENI École Informatique**, je m’intéresse particulièrement aux environnements techniques modernes, aux bonnes pratiques de développement et aux approches centrées sur la qualité logicielle.
 
-Curieux et surtout rigoureux, j’évolue sereinement dans des environnements où l’analyse, la collaboration et l’amélioration continue sont au cœur du travail.
+Je privilégie une écriture de code **propre**, **lisible**, **testable**, et une structuration logique basée sur la séparation des responsabilités, la cohérence des modèles de données et la robustesse des flux applicatifs.
 
 ---
 
 ## 🎯 Objectif
 
-Je prépare la suite de mon parcours en recherchant une **alternance en Concepteur Développeur d’Applications (CDA)**, idéalement **dans les environs de Strasbourg**.  
-Mon ambition : contribuer à des projets concrets, apprendre auprès d’une équipe expérimentée et monter en compétence sur des environnements fullstack modernes.
+Recherche d’une **alternance en Concepteur Développeur d’Applications (CDA)** dans la région de Strasbourg (installation prévue en août).  
+Objectif : renforcer mes compétences en architecture logicielle, monter en expertise fullstack et contribuer à des projets concrets au sein d’une équipe expérimentée.
 
 ---
 
-## 💡 Ce que j’apporte
+# 🧠 Compétences techniques
 
-- Une vraie capacité d’analyse et de résolution de problèmes  
-- Une approche structurée, propre et maintenable du développement  
-- Une forte adaptabilité et une volonté d’apprendre en continu  
-- Un sens du travail en équipe et de la communication  
-- Une curiosité technique qui me pousse à explorer, comprendre et améliorer
-
----
-
-# 🛠️ Technologies & domaines qui m’intéressent
-
-- **Front-end** : React, TypeScript, Tailwind, Angular
-- **Back-end** : Node.js, Express, APIs REST, Symfony  
-- **Bases de données** : PostgreSQL, SQL Server, MySQL 
-- **Méthodologies** : MVC, bonnes pratiques, qualité logicielle  
-- **Outils** : Git, Docker, environnements de développement modernes, Linux (Fedora WS)
+## 🏗️ Back-end
+- **Symfony** (services, events, middlewares, sécurité, RBAC, formulaires, validation, Doctrine ORM)
+- **Node.js / Express** (APIs REST, middlewares custom, gestion d’erreurs centralisée)
+- **Architecture MVC**, **Clean Architecture**, **services découplés**, **patterns de conception**
+- **Sécurité** : hashing, JWT, contrôle d’accès, sanitation, bonnes pratiques OWASP
+- **Optimisation** : requêtes SQL optimisées, pagination, caching applicatif, profiling
 
 ---
 
-# 🌱 En parallèle
-
-Je développe régulièrement des projets personnels pour progresser, expérimenter et consolider mes compétences - qu’il s’agisse d’applications web, d’outils internes ou de prototypes plus créatifs.
+## 🎨 Front-end
+- **React** (hooks, context API, composants modulaires, state management léger)
+- **TypeScript** (typage strict, interfaces, generics, modèles robustes)
+- **TailwindCSS** (design system, composants réutilisables, responsive avancé)
+- **Angular** (bases solides : modules, services, routing)
 
 ---
 
-# 📬 Contact
+## 🗄️ Bases de données
+- **PostgreSQL**, **SQL Server**, **MySQL**, **MariaDB**, **SQLite**
+- Modélisation relationnelle, indexation, optimisation de requêtes
+- **MongoDB** (documents, collections, pipelines d’agrégation)
 
+---
+
+## 🛠️ Outils & environnements
+- **Git**, GitHub, GitLab  
+- **Docker** (containers, images, orchestration simple)
+- **VS Code**, JetBrains  
+- **CI/CD**, pipelines, intégration continue  
+- Méthodologies **Agile / Kanban**
+
+---
+
+## 🌱 Projets & apprentissages
+Je développe régulièrement des projets personnels pour expérimenter, tester de nouvelles approches et consolider mes compétences : applications web, outils internes, prototypes front/back, automatisations, etc.
+
+---
+
+## 📬 Contact
 📧 **william.salembien@outlook.com**  
 🔗 **LinkedIn** : https://www.linkedin.com/in/william-salembien  
-🐙 **GitHub** : https://github.com/VinylTheHooligan
+🐙 **GitHub** : https://github.com/VinylTheHooligan  
+🌐 **Site** : https://www.vertex-digital.fr (en maintenance)
