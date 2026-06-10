@@ -58,4 +58,4 @@ Je développe régulièrement des projets personnels pour expérimenter, tester 
 📧 **william.salembien@outlook.com**  
 🔗 **LinkedIn** : https://www.linkedin.com/in/william-salembien  
 🐙 **GitHub** : https://github.com/VinylTheHooligan  
-🌐 **Site** : https://www.vertex-digital.fr (en maintenance)
+🌐 **Site** : https://www.vertex-digital.fr
