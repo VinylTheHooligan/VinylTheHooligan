@@ -7,7 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-salembien/)
 [![Portfolio](https://img.shields.io/badge/vertex--digital.fr-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://www.vertex-digital.fr)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:william.salembien@outlook.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@vertex-digital.fr)
 
 </div>
 
