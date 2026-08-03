@@ -18,7 +18,9 @@
 I design and ship full-stack web applications end-to-end - from data modelling and API design to UI, CI/CD and production deployment.  
 My focus: **separation of concerns**, **type-safe codebases** and **test suites that actually catch bugs**.
 
-Currently looking for a **CDA apprenticeship (alternance)** in the Strasbourg area for 2026-2027.
+I'm currently working on a SaaS project in a private repository **(so if you don't see any activity on my account, that's perfectly normal)**. This project, which focuses on the streaming industry, is expected to be released in **October or November** of this year.
+
+Currently looking for a **CDA apprenticeship (alternance)** in the Strasbourg area for 2026-2027, but who knows, my ambitions might change.
 
 ---
 
@@ -29,6 +31,7 @@ Currently looking for a **CDA apprenticeship (alternance)** in the Strasbourg ar
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-6C9DC6?style=flat-square&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Nest.js](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 
 ### Front-end
@@ -41,12 +44,14 @@ Currently looking for a **CDA apprenticeship (alternance)** in the Strasbourg ar
 
 ### Testing
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-6C9DC6?style=flat-square&logo=php&logoColor=white)
 
 ### Data & Infra
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
@@ -60,7 +65,7 @@ Tested behaviour  >  assumed correctness
 Explicit architecture  >  implicit magic
 ```
 
-I write code I'd be comfortable reading six months later, in a team I haven't met yet.
+I write code I'd be comfortable reading six months later in a team I haven't met yet, just so you know...
 
 ---
 
